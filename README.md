@@ -1,4 +1,3 @@
-Here's a sample README file content for your Amazon web home page clone project:
 
 Amazon Web Home Page Clone
 
